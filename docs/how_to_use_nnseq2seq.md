@@ -165,7 +165,7 @@ import SimpleITK as sitk
 import torch
 
 import sys
-sys.path.append('/path/to/AsynDiff/nnseq2seq')
+sys.path.append('/path/to/AsynDiff/')
 from nnseq2seq.api.inference import nnSeq2SeqPipeline
 ```
 

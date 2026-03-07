@@ -17,7 +17,7 @@ class Seq2Seq2d(nn.Module):
         self.net = JiT_2d_models[args['model_name']](
             input_size=args['patch_size'],
             in_channels=self.in_channels+1,
-            num_classes=self.num_classes,
+            num_classes=self.in_channels+1,
         )
 
         self.P_mean = -0.8
@@ -142,7 +142,7 @@ class Seq2Seq3d(nn.Module):
         self.net = JiT_3d_models[args['model_name']](
             input_size=args['patch_size'],
             in_channels=self.in_channels+1,
-            num_classes=self.num_classes,
+            num_classes=self.in_channels+1,
         )
 
         self.P_mean = -0.8
