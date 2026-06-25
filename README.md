@@ -6,7 +6,7 @@
 <img src="asset/framework.jpg" width=95%>
 <p>
 
-> [**AsynDiff: Asynchronous-Timestep Diffusion with Noise-Aware Attention for Multi-Sequence MRI Synthesis**](https://arxiv.org/abs/xxxxxx)<br>
+> **AsynDiff: Asynchronous-Timestep Diffusion with Noise-Aware Attention for Multi-Sequence MRI Synthesis**<br>
 > [Luyi Han](https://fiy2W.github.io/), Pengxiang Min, Xinghe Xie, Tianyu Zhang, Xin Wang, Yuan Gao, Chunyao Lu, Xinglong Liang, Yaofei Duan, Antonio Portaluri, Nika Rasoolzadeh, Jarek van Dijk, Muzhen He, Yue Sun, Chan-Tong Lam, Ritse Mann, Tao Tan
 > <br>MPU, Radboudumc, NKI<br>
 
